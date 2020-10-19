@@ -12,9 +12,10 @@ Onedrive link for FastTrack Python Codes and Files :
 MSIS Google website : 
 [MSIS site](https://sites.google.com/view/msismahe/home)
 
+<!--
 Youtube playlist Applied Linear Algebra : 
 [ALA Youtube Playlist](https://www.youtube.com/playlist?list=PL-apQ9gGXkLYdo5CnaaueO5LHFdp3TAXC)
 
 Youtube playlist Applied Probabilty and Statistics : 
 [APS Youtube Playlist](https://www.youtube.com/playlist?list=PL-apQ9gGXkLbuu7mycNN2mlCMIJoz7LOA)
-
+-->
