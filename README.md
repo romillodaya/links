@@ -19,3 +19,5 @@ Youtube playlist Applied Linear Algebra :
 Youtube playlist Applied Probabilty and Statistics : 
 [APS Youtube Playlist](https://www.youtube.com/playlist?list=PL-apQ9gGXkLbuu7mycNN2mlCMIJoz7LOA)
 -->
+
+![Time Table](https://github.com/romillodaya/links/blob/main/time_table.png)
