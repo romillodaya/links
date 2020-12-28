@@ -25,6 +25,6 @@ Microsoft Streams group link :
 <!--
 Youtube playlist Applied Linear Algebra : 
 [ALA Youtube Playlist](https://www.youtube.com/playlist?list=PL-apQ9gGXkLYdo5CnaaueO5LHFdp3TAXC)
--->
 
 ![Time Table](https://github.com/romillodaya/links/blob/main/time_table.png)
+-->
