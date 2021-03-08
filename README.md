@@ -1,5 +1,8 @@
 # Quick Links
 
+Google drive link for AAPS and ML : 
+[AAPS and ML](https://tinyurl.com/4da4enw9)
+
 Onedrive link for Applied Linear Algebra : 
 [Onedrive MCL - 609](https://tinyurl.com/y6ky75hg)
 
