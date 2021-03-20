@@ -1,4 +1,4 @@
-# Quick Links
+# Links
 
 Google drive link for AAPS and ML : 
 [AAPS and ML](https://tinyurl.com/4da4enw9)
